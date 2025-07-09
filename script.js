@@ -99,7 +99,7 @@ contactForm.addEventListener('submit', (e) => {
 // Download CV button
 downloadCvBtn.addEventListener('click', (e) => {
     e.preventDefault();
-    alert('CV download functionality will be added when you have a CV ready!');
+    alert('CV download functionality will be added later.');
     // In a real implementation, you would link to your actual CV file
     // window.open('path/to/your/cv.pdf', '_blank');
 });
