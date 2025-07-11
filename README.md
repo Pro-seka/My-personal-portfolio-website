@@ -1,12 +1,11 @@
-# 🌐 Sakib Hasan — Personal Portfolio
+# 🌐 Sakib Hasan — Portfolio
 
 This is my personal portfolio website
 
-It showcases who I am..
+[Click here to view the website](https://pro-seka.github.io/My-personal-portfolio-website/)
 
-🔗 Live Site: https://pro-seka.github.io/My-personal-portfolio-website/
+A clean, responsive personal website showcasing my skills, projects, and contact info.  
+Built with HTML, CSS, and JavaScript.
 
-Built With:
-- HTML5
-- CSS3
-- JavaScript
+Feel free to connect!
+
